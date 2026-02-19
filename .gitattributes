@@ -1,1 +1,2 @@
 VisuCeram-500x500-labelled.zip filter=lfs diff=lfs merge=lfs -text
+VisuCeram-1000x1000.zip filter=lfs diff=lfs merge=lfs -text
