@@ -17,7 +17,7 @@ In the sanitary ware ceramics industry, visual quality inspection is essential t
 
 - Labor-intensive  
 - Time-consuming  
-- Prone to human error  
+- Prone to human error   
 
 Additionally, ceramic products present unique challenges such as:
 
