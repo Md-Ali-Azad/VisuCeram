@@ -2,7 +2,7 @@
 
 ## 📄 Related Publication
 
-This repository contains the **official dataset and YOLO-based implementation models** for the paper:
+This repository contains the **Official dataset and YOLO-based implementation models** for the paper:
 
 **“VisuCeram: A Comprehensive Dataset for Sanitary Ware Ceramic Defect Detection with YOLO Models and Benchmarking”**  
 Published by IEEE  
